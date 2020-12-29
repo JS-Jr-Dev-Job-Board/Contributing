@@ -2,7 +2,7 @@
 
 :boom: :star: How to contribute, flag issues and do pull requests! :star: :boom:
 
-Find out more [here](https://github.com/JS-Jr-Dev-Job-Board)
+Find out more about us and what we're doing by clicking [here](https://github.com/JS-Jr-Dev-Job-Board)
 
 ## Getting Started
 
